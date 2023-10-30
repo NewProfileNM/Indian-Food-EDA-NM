@@ -1,2 +1,6 @@
 # Indian-Food-EDA-NM
-In this project, we will explore various aspects of Indian cuisine, such as ingredients, recipes, regional variations, and popularity.
+
+DEEBIKA S-211520104026
+DEEPIKA S-211520104028
+ANDREA ROSHAL B-211520104013
+MOULIKA A K-211520104096
